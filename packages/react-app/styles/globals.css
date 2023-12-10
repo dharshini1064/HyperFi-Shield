@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+div.connect-btn div.iekbcc0.ju367va.ju367v1s button{
+    position: relative;
+    right: 0%;
+    background-color: #92548B;
+}
