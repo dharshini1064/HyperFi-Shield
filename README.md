@@ -4,25 +4,23 @@
  <h2 align="center">Celo Composer</h2>
  <p align="center">Build, deploy, and iterate quickly on decentralized applications using Celo.</p>
 </p>
-  <p align="center">
-    <a href="https://github.com/celo-org/celo-composer/graphs/stars">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/stars/celo-org/celo-composer?color=FCFF52" />
-    </a>
-    <a href="https://github.com/celo-org/celo-composer/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/celo-org/celo-composer?color=E7E3D4" />
-    </a>
-    <a href="https://github.com/celo-org/celo-composer/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/celo-org/celo-composer?color=E7E3D4" />
-    </a>
-    <a href="https://github.com/celo-org/celo-composer/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/celo-org/celo-composer?color=E7E3D4" />
-    </a>
-    <a href="https://opensource.org/license/mit/">
-      <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-    </a>
-  </p>
 </p>
 
+--- 
+
+## Idea:
+HyperFi Shield is a revolutionary decentralized finance (DeFi) platform designed to simplify and democratize access to DeFi investments for individuals residing in regions affected by hyperinflation. The platform aims to empower users by offering a user-friendly interface, educational resources, and secure investment options within the DeFi ecosystem. HyperFi Shield provides real-time tracking of Annual Percentage Yield (APY) from various exchanges, ensuring users can make informed decisions while safeguarding their assets against hyperinflation.
+
+## Problem Statement:
+Hyperinflation poses a significant threat to financial stability, especially in certain countries and regions. Traditional financial systems often fail to protect individuals from the adverse effects of hyperinflation, leading to loss of savings and financial uncertainty. Moreover, the complexities of DeFi and the lack of accessible, reliable information hinder individuals from participating in decentralized finance, further exacerbating the issue.
+
+## Future Scope:
+Enhanced Educational Resources: Continuously improving educational content to assist users in understanding DeFi concepts and investment strategies better.
+Advanced Security Measures: Implementing cutting-edge security protocols to ensure users' funds remain protected within the platform.
+Expanding Investment Options: Adding more diversified investment opportunities and strategies to cater to various risk appetites and preferences.
+Community Engagement: Establishing a strong user community through forums, webinars, and social media to foster knowledge-sharing and support among users.
+Integration with Additional Blockchains: Exploring integration with other prominent blockchains to widen the platform's accessibility and functionality.
+HyperFi Shield's commitment lies in providing a robust, secure, and accessible DeFi platform that empowers individuals to protect their assets against hyperinflation while fostering financial education and inclusivity.
 <!-- TABLE OF CONTENTS -->
 
 <details>
